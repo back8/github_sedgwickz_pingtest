@@ -11,9 +11,9 @@ print_time()
 {
     int_time=$(echo $1|awk -F\. '{print $1}')
     if [[ $int_time -ge 100 ]]; then
-        echo -e "${PURPLE}$1${NC}"
+        echo -e "${PURPLE}$1 ms${NC}"
     elif [[ $int_time -lt 100 ]] && [[ $int_time -gt 0 ]]; then
-        echo -e "${GREEN}$1${NC}"
+        echo -e "${GREEN}$1 ms${NC}"
     else
         echo -e "${RED}loss${NC}"
     fi
