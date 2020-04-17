@@ -1,0 +1,9 @@
+纽约2 speedtest-nyc2.digitalocean.com
+纽约3 speedtest-nyc3.digitalocean.com
+旧金山 speedtest-sfo1.digitalocean.com
+阿姆斯特丹1 speedtest-ams1.digitalocean.com
+阿姆斯特丹2 speedtest-ams2.digitalocean.com
+阿姆斯特丹3 speedtest-ams3.digitalocean.com
+新加坡 speedtest-sgp1.digitalocean.com
+伦敦 speedtest-lon1.digitalocean.com
+法兰克福 speedtest-fra1.digitalocean.com

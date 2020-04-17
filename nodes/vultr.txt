@@ -1,0 +1,16 @@
+法兰克福 fra-de-ping.vultr.com
+巴黎 par-fr-ping.vultr.com
+阿姆斯特丹 ams-nl-ping.vultr.com
+伦敦 lon-gb-ping.vultr.com
+新加坡 sgp-ping.vultr.com
+纽约 nj-us-ping.vultr.com
+东京 hnd-jp-ping.vultr.com
+多伦多 tor-ca-ping.vultr.com
+芝加哥 il-us-ping.vultr.com
+亚特兰大 ga-us-ping.vultr.com
+迈阿密 fl-us-ping.vultr.com
+西雅图 wa-us-ping.vultr.com
+达拉斯 tx-us-ping.vultr.com
+硅谷 sjo-ca-us-ping.vultr.com
+洛杉矶 lax-ca-us-ping.vultr.com
+硅谷 syd-au-ping.vultr.com

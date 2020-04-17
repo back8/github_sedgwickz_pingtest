@@ -1,0 +1,11 @@
+日本 speedtest.tokyo2.linode.com
+孟买 speedtest.mumbai1.linode.com
+新加坡 speedtest.singapore.linode.com
+悉尼 speedtest.syd1.linode.com
+法兰克福 speedtest.frankfurt.linode.com
+伦敦 speedtest.london.linode.com
+多伦多 speedtest.toronto1.linode.com
+纽瓦克(US) speedtest.newark.linode.com
+亚特兰大 speedtest.atlanta.linode.com
+达拉斯 speedtest.dallas.linode.com
+菲蒙市(US) speedtest.fremont.linode.com
