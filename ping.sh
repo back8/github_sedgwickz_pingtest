@@ -25,8 +25,8 @@ pingtest ()
     do
         city=$(echo $line|awk '{print $1}')
         test_url=$(echo $line|awk '{print $2}')
-        ip=$(ping -c 1 -t 1 $test_url|head -n 1|awk -F\( '{print $NF}'|awk -F\) '{print $1}') &&
-            time=$(ping -c 1 -t 1 $test_url|awk 'NR==2{print $0}'|awk -F= '{print $NF}'|sed -e 's/ms//g') &&
+        ip=$(ping -c 1 $test_url|head -n 1|awk -F\( '{print $NF}'|awk -F\) '{print $1}') &&
+        time=$(ping -c 1 $test_url|awk 'NR==2{print $0}'|awk -F= '{print $NF}'|sed -e 's/ms//g') &&
         # country=$(mmdblookup -f ./GeoLite2-City_20200414/GeoLite2-City.mmdb -i $ip country names zh-CN|awk '{print $1}'|sed -e 's/\"//g') &&
                 echo -e $test_url $ip $city $(print_time $time)
         # $($time > 0 ? $time : "${RED}loss${NC}")
